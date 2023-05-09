@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/Profile%20views-2358-green" heigt="40">
   <img src="https://img.shields.io/badge/Leangonplu-UP-green" heigt="40">
   <img src="https://img.shields.io/badge/popularity-89%25-green" heigt="40">
+  <img src="https://img.shields.io/badge/Score-93%25-green" heigt="40">
 </div>
 
 
