@@ -13,12 +13,8 @@
   </h3>
 </div>
 
-<div id="header" align="center">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Leangonplu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/leangonplu//) 
 
-</div>
-
-  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RgWIsbDWOAr1HGqC8t/giphy.gif" width="700" />
 </div>
@@ -36,7 +32,7 @@
 # Languajes and Tools:
 ---
 <div id="header" align="center">
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='Python' widht='60' height='60'>  <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' alt='Numpy' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg' alt='Pandas' widht='60' height='60'>  <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='Jupyter' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' title= "R" alt='R' widht='60' height='60'>  <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' alt='MySQL' widht='60' height='60'>  <img src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg' alt='Power BI' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg' alt='Power BI' widht='60' height='60'>  <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' alt='Docker' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg' alt='Azure' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='TensorFlow' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='VScode' widht='60' height='60'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' alt='Python' widht='60' height='60'>  <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' alt='Numpy' widht='100' height='100'><img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg' alt='Pandas' widht='60' height='60'>  <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' alt='Jupyter' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' title= "R" alt='R' widht='60' height='60'>  <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' alt='MySQL' widht='60' height='60'>  <img src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg' alt='Power BI' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg' alt='Power BI' widht='60' height='60'>  <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' alt='Docker' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg' alt='Azure' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='TensorFlow' widht='60' height='60'><img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='VScode' widht='60' height='60'>
 </div>
 
 # My Stats:
