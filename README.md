@@ -27,7 +27,7 @@
 - 🌱 I’m currently **learning Prompts, ML Deployment and Big Data Engineer.**
 - 👯 I’m looking to collaborate on Data Science and Data Analyst projects, as well as Artificial Intelligence developments and applications. 
 - 💬 Ask me about Data collection, cleaning, preparation, data exploration, as well as data modeling, evaluation metrics and implementation of machine learning models. 
-- ⚡ Fun fact: I love Data, finding patterns, trends and insights. I loveI explore the ever-growing research in Computer Vision, Deep Learning, NLP and Time Series Analysis. 
+- ⚡ Fun fact: I love Data, finding patterns, trends and insights. I love explore the ever-growing research in Computer Vision, Deep Learning, NLP and Time Series Analysis. 
 
 # Languajes and Tools:
 ---
