@@ -23,7 +23,7 @@
 # About Me:
 ---
 
-- 🔭 I’m currently working on **Freelance Data Science and Data Analyst.** 
+- 🔭 I’m currently working on **Freelance Data Scientist and Data Analyst.** 
 - 🌱 I’m currently **learning Prompts, ML Deployment and Big Data Engineer.**
 - 👯 I’m looking to collaborate on Data Science and Data Analyst projects, as well as Artificial Intelligence developments and applications. 
 - 💬 Ask me about Data collection, cleaning, preparation, data exploration, as well as data modeling, evaluation metrics and implementation of machine learning models. 
