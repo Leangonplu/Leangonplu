@@ -9,7 +9,7 @@
 
 <div id="header" align="center">
   <h1 align="center">I am a Data Scientist, Data Analyst and AI Researcher</h1>
-  <h3 id="body" align="left">Experienced Data Scientist with 15+ years in Data Analytics and Business Intelligence, solid experience in Finance, Project Management and Business. Proficient in Python, R, Power BI, Tableau and SQL. Strong leadership and project management skills. Passionate about disruptive and innovative business. Constantly learning and adapting to new technologies. Fast learner, agile methodologies and focus on problem solving, trends, patterns and insights.
+  <h3 id="body" align="left">Experienced Data Scientist, with 15+ years in Data Analytics and Business Intelligence, solid experience in Finance, Project Management and Business. Proficient in Python, R, Power BI, Tableau and SQL. Strong leadership and project management skills. Passionate about disruptive and innovative business. Constantly learning and adapting to new technologies. Fast learner, agile methodologies and focus on problem solving, trends, patterns and insights.
   </h3>
 </div>
 
